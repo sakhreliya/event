@@ -1,0 +1,47 @@
+{
+    "products": [
+      {
+        "id": "101",
+        "Name": "Abacavir",
+        "quantity": 25,
+        "price": 150,
+        "expiry": 2022
+      },
+      {
+        "id": "102",
+        "Name": "Eltrombopag",
+        "quantity": 90,
+        "price": 550,
+        "expiry": 2021
+      },
+      {
+        "id": "103",
+        "Name": "Meloxicam",
+        "quantity": 85,
+        "price": 450,
+        "expiry": 2025
+      },
+      {
+        "id": "104",
+        "Name": "Allopurinol",
+        "quantity": 50,
+        "price": 600,
+        "expiry": 2023
+      },
+      {
+        "id": "105",
+        "Name": "Phenytoin",
+        "quantity": 63,
+        "price": 250,
+        "expiry": 2021
+      },
+      
+      {
+        "id": "4c06",
+        "Name": "Paracitamol",
+        "expiry": "2025",
+        "price": "123",
+        "quantity": "9"
+      }
+    ]
+  }
